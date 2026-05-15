@@ -1,0 +1,13 @@
+{
+  "test_auc_full": 0.8719236636512323,
+  "test_auc_selected": 0.8723189073754677,
+  "test_auc_calibrated": 0.8716578613758245,
+  "gini": 0.7433157227516489,
+  "ks_statistic": 0.5832889142004759,
+  "best_threshold_f1": 0.185,
+  "best_threshold_business": 0.13,
+  "n_features": 14,
+  "n_train": 104996,
+  "n_val": 22504,
+  "n_test": 22500
+}

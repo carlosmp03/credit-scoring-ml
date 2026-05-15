@@ -1,0 +1,15 @@
+{
+  "learning_rate": 0.04708057738655937,
+  "depth": 6,
+  "l2_leaf_reg": 9.36830360189613,
+  "border_count": 235,
+  "random_strength": 9.280861491773642,
+  "bagging_temperature": 0.9938772792799193,
+  "iterations": 500,
+  "eval_metric": "AUC",
+  "auto_class_weights": "Balanced",
+  "random_seed": 42,
+  "od_type": "Iter",
+  "od_wait": 20,
+  "verbose": false
+}

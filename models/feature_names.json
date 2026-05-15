@@ -1,0 +1,16 @@
+[
+  "RevolvingUtilizationOfUnsecuredLines",
+  "TotalPastDue",
+  "Has90DaysLate",
+  "DebtRatio",
+  "age",
+  "NumberOfTime60-89DaysPastDueNotWorse",
+  "NumberOfOpenCreditLinesAndLoans",
+  "NumberRealEstateLoansOrLines",
+  "NumberOfTimes90DaysLate",
+  "MonthlyIncome",
+  "MonthlyIncomePerPerson",
+  "NumberOfTime30-59DaysPastDueNotWorse",
+  "AgeRisk",
+  "MonthlyIncome_missing"
+]
